@@ -1,0 +1,2 @@
+publish
+run script.move --signers 0xA
